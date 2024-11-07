@@ -1,0 +1,27 @@
+Guest List for Surprise Party
+
+1. Emma Johnson - RSVP: Yes - Dietary Preference: Vegetarian - Plus-One: Yes
+2. Liam Smith - RSVP: Yes - Dietary Preference: None - Plus-One: No
+3. Olivia Brown - RSVP: No - Dietary Preference: Vegan - Plus-One: N/A
+4. Noah Wilson - RSVP: Yes - Dietary Preference: Gluten-Free - Plus-One: Yes
+5. Ava Martinez - RSVP: Yes - Dietary Preference: None - Plus-One: No
+6. Ethan Rodriguez - RSVP: Maybe - Dietary Preference: None - Plus-One: Yes
+7. Isabella Lee - RSVP: Yes - Dietary Preference: Vegetarian - Plus-One: No
+8. Mason Kim - RSVP: No - Dietary Preference: Dairy-Free - Plus-One: N/A
+9. Mia Patel - RSVP: Yes - Dietary Preference: None - Plus-One: Yes
+10. Lucas Nguyen - RSVP: Yes - Dietary Preference: None - Plus-One: No
+11. Amelia Davis - RSVP: Maybe - Dietary Preference: Vegan - Plus-One: No
+12. James Thomas - RSVP: Yes - Dietary Preference: None - Plus-One: No
+13. Sophia Hernandez - RSVP: No - Dietary Preference: Gluten-Free - Plus-One: N/A
+14. Benjamin Scott - RSVP: Yes - Dietary Preference: Vegetarian - Plus-One: Yes
+15. Charlotte Lopez - RSVP: Yes - Dietary Preference: None - Plus-One: No
+16. Michael Gonzalez - RSVP: Yes - Dietary Preference: None - Plus-One: Yes
+17. Harper Clark - RSVP: Maybe - Dietary Preference: Dairy-Free - Plus-One: No
+18. Elijah Ramirez - RSVP: Yes - Dietary Preference: Vegetarian - Plus-One: No
+19. Abigail Lewis - RSVP: Yes - Dietary Preference: None - Plus-One: Yes
+20. Alexander Hall - RSVP: No - Dietary Preference: None - Plus-One: N/A
+21. Emily Young - RSVP: Yes - Dietary Preference: None - Plus-One: No
+22. Henry King - RSVP: Yes - Dietary Preference: Vegan - Plus-One: Yes
+23. Aria Wright - RSVP: Maybe - Dietary Preference: None - Plus-One: No
+24. Daniel Scott - RSVP: Yes - Dietary Preference: Gluten-Free - Plus-One: Yes
+25. Grace Walker - RSVP: Yes - Dietary Preference: None - Plus-One: No
