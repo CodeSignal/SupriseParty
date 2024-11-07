@@ -46,7 +46,7 @@ To explore the repository, clone it and navigate through each branch.
 
 Clone the repository to your local machine using:
 ```bash
-git clone https://github.com/YourUsername/SurprisePartyPlanner.git
+git clone https://github.com/CodeSignal/SupriseParty.git
 ```
 
 Once cloned, you can switch between branches to see the specific contributions made by Alice and Bob.
