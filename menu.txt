@@ -6,6 +6,9 @@ Appetizers:
 - Mini Sausage Rolls with Dijon Mustard
 - Bacon-Wrapped Dates with Goat Cheese
 - BBQ Meatballs with Sweet and Spicy Sauce
+- Stuffed Mushrooms with Cream Cheese and Herbs (Vegetarian)
+- Caprese Skewers with Cherry Tomatoes, Basil, and Mozzarella (Vegetarian)
+- Vegetable Spring Rolls with Sweet Chili Sauce (Vegetarian)
 
 Main Dishes:
 - Grilled Ribeye Steaks with Herb Butter
@@ -13,6 +16,9 @@ Main Dishes:
 - Roast Chicken with Garlic and Rosemary
 - Beef Tacos with Salsa, Sour Cream, and Guacamole
 - Grilled Salmon Fillets with Lemon-Dill Sauce
+- Vegetable Stir-Fry with Tofu and Sesame Sauce (Vegetarian)
+- Eggplant Parmesan with Marinara Sauce and Mozzarella (Vegetarian)
+- Stuffed Bell Peppers with Rice, Black Beans, and Vegetables (Vegetarian)
 
 Side Dishes:
 - Loaded Baked Potatoes with Bacon, Cheese, and Chives
@@ -20,3 +26,6 @@ Side Dishes:
 - Garlic Butter Roasted Mushrooms
 - Cheesy Scalloped Potatoes
 - Creamy Coleslaw with Bacon Bits
+- Garden Salad with Mixed Greens, Cherry Tomatoes, and Cucumbers (Vegetarian)
+- Roasted Vegetables with Olive Oil and Herbs (Vegetarian)
+- Garlic Bread with Mozzarella (Vegetarian)
